@@ -21,4 +21,4 @@ A responsive full-stack coffee shop web application built with HTML, Tailwind CS
 6. Run `http://localhost/Chafee` in your browser.
 
 ## 📸 Preview
-![Website Preview](assets/fullpageshot.png)
+![Website Preview](assets/full page shot.png)
